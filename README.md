@@ -11,7 +11,7 @@ windbg 6.1.0007
 
 
 
-chrome 同步使用的标签
+chrome 同步使用的标签   chrom_tag.json
 
 参考链接：
 
